@@ -1,0 +1,1 @@
+"D:\微信web开发者工具\cli.bat" cloud functions deploy --e cloud1-0gs7rtz798fd8319 --n quickstartFunctions --r --project "C:\Users\hqw6\WeChatProjects\wx-lightTheater" --report_first --report
